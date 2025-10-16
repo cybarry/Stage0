@@ -8,7 +8,7 @@ A simple RESTful API that returns my profile information and a dynamic cat fact 
 
 **GET** `/me`
 
-**Base URL:** https://hng13-stage0-production.up.railway.app/me
+**Base URL:** https://stage0-production.up.railway.app/me
 
 ### Sample Response
 
